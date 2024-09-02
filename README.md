@@ -119,6 +119,24 @@ Follow the steps below to run a complete analysis from importing libraries to im
     else:
         print("No numeric data available for correlation matrix.")
 
+
+
+# DATASET USED FOR THE PROJECT #
+
+ COVID - https://www.kaggle.com/datasets/georgesaavedra/covid19-dataset
+
+ INFLUENZA - https://ourworldindata.org/explorers/influenza?facet=none&Confirmed+cases+or+Symptoms=Confirmed+cases&Metric=Share+of+positive+tests+%28%25%29&Interval=Monthly&Surveillance+type=All+types&country=Northern+Hemisphere~Southern+Hemisphere
+
+ HEALTH EXPENDITURE - https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
+
+ CLIMATE - https://www.kaggle.com/datasets/goyaladi/climate-insights-dataset?select=climate_change_data.csv
+
+ SOCIOECONOMIC - https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023
+
+
+
+        
+
   
       
        
